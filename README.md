@@ -36,6 +36,8 @@
 
 ## Relatório de Insights:
 
+É importante destacar que, para alguns gráficos, foram utilizados apenas os dados mais recentes do banco de dados (agosto de 2021) para condensar a análise, uma vez que o padrão de informação se repete proporcionalmente nos outros meses.
+
 Após analisar os dados das vendas de produtos, podemos extrair insights valiosos que podem orientar estratégias futuras. Abaixo estão as principais conclusões:
 
 - Ticket Médio e Receita Total: O ticket médio não apresenta uma grande variação ao longo do tempo, indicando estabilidade nos preços dos produtos. No entanto, a receita total aumenta consideravelmente entre os meses de abril e julho de 2021, mostrando que o aumento das vendas não está diretamente ligado ao ticket médio.
