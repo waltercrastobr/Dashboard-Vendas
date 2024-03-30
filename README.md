@@ -1,4 +1,6 @@
 # Dashboard Vendas
+![Dashboard de Verdas](https://github.com/waltercrastobr/Dashboard-Vendas/blob/main/imagem_dashboard_vendas.PNG?raw=true)
+
 ## Relatório sobre as Queries e Insights feitos a partir do Dashboard de Vendas:
 
 ### Query 1 (Receita, leads, conversão e ticket médio mês a mês):
