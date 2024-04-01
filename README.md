@@ -1,6 +1,10 @@
 # Dashboard Vendas
 ![Dashboard de Verdas](https://github.com/waltercrastobr/Dashboard-Vendas/blob/main/imagem_dashboard_vendas.PNG?raw=true)
 
+## Apresentação do Projeto:
+Este projeto consiste na análise de um banco de dados relacionado à compra de carros em sites de lojas de venda de automóveis. A base de dados contém informações sobre os compradores, visitas ao site, detalhes dos carros e as lojas que realizam as vendas. O objetivo é criar um dashboard para visualização de dados e gerar insights que possam ser utilizados para otimizar as estratégias de vendas e marketing das lojas de automóveis.
+
+
 ## Relatório sobre as Queries e Insights feitos a partir do Dashboard de Vendas:
 
 ### Query 1 (Receita, leads, conversão e ticket médio mês a mês):
